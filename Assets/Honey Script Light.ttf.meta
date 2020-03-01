@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e817b3e75cc120a4fa91b68019e88c44
+timeCreated: 1490456603
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Honey Script
+  fontNames:
+  - Honey Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1e4d686e3560cad4a9cc5cd4a33bee29, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
